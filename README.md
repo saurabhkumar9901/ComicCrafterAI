@@ -68,11 +68,11 @@ ComicCrafterAI is an AI-powered tool that generates comic book-style short stori
    ```
 3. Run the Local image generation model via the Comfy-UI plarform:
    ```sh
-   1. Download the Stable Diffusion from this link  "https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt?download=true"
-   2. Download the FLUX Model from this link  "https://huggingface.co/city96/FLUX.1-schnell-gguf/resolve/main/flux1-schnell-Q2_K.gguf?download=true
-   3. Move the model to the location 'C:/ComfyUI_windows_portable_nvidia/ComfyUI_windows_portable/ComfyUI/models/checkpoints/
-   4. Download the text encoder from this link  "https://huggingface.co/city96/t5-v1_1-xxl-encoder-gguf/resolve/main/t5-v1_1-xxl-encoder-Q3_K_S.gguf"
-   5. Download the clip from this link  "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors"
+   1. Download the Stable Diffusion from this link  'https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt?download=true'
+   2. Download the FLUX Model from this link  'https://huggingface.co/city96/FLUX.1-schnell-gguf/resolve/main/flux1-schnell-Q2_K.gguf?download=true'
+   3. Move the model to the location 'C:/ComfyUI_windows_portable_nvidia/ComfyUI_windows_portable/ComfyUI/models/checkpoints/'
+   4. Download the text encoder from this link  'https://huggingface.co/city96/t5-v1_1-xxl-encoder-gguf/resolve/main/t5-v1_1-xxl-encoder-Q3_K_S.gguf'
+   5. Download the clip from this link  'https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors'
    6. Move the text encoder and clip_i to this location 'C:/ComfyUI_windows_portable_nvidia/ComfyUI_windows_portable/ComfyUI/models/clip'
    7. Execute the batch operable 'run_nvidia_gpu.bat' if you have Nvidia GPU of atleast 4GB VRAM.
    8. Execute the batch operable 'run_cpu.bat' if you have do not have the GPU in your system.
