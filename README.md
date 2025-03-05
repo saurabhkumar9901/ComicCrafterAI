@@ -68,7 +68,7 @@ ComicCrafterAI is an AI-powered tool that generates comic book-style short stori
    ```
 3. Run the Local image generation model via the Comfy-UI plarform:
    ```sh
-   1. Download the Stable Diffusion from this link  'https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt?download=true'
+   1. Download the Stable Diffusion from this link  'https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors'
    2. Download the FLUX Model from this link  'https://huggingface.co/city96/FLUX.1-schnell-gguf/resolve/main/flux1-schnell-Q2_K.gguf?download=true'
    3. Download the ae.safetensors from this link 'https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/ae.safetensors'
    4. Move the ae.safetensors to 'C:/ComfyUI_windows_portable_nvidia/ComfyUI_windows_portable/ComfyUI/models/vae/
