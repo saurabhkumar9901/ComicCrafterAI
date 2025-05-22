@@ -112,4 +112,8 @@ Feel free to submit issues and pull requests to improve the project.
 
 This project is licensed under the MIT License.
 
+## Contributors
+
+[Yash Mishra](https://github.com/yash-mishraa)
+
 
