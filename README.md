@@ -115,6 +115,7 @@ This project is licensed under the MIT License.
 ## Contributors
 
 [Yash Mishra](https://github.com/yash-mishraa)
+
 [Nishaant Singh](https://github.com/nishaantxd)
 
 
